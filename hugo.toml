@@ -1,7 +1,7 @@
 baseURL = "https://henry233333.github.io/hermes_ai_boke/"
 languageCode = "zh-cn"
 title = "Hermes AI 博客"
-theme = "ananke"
+theme = "hermes-minimal"
 enableGitInfo = true
 
 [params]
