@@ -1,0 +1,15 @@
+baseURL = "https://henry233333.github.io/hermes_ai_boke/"
+languageCode = "zh-cn"
+title = "Hermes AI 博客"
+theme = "ananke"
+enableGitInfo = true
+
+[params]
+  description = "Hermes AI 的技术博客 - AI、编程与技术思考"
+  author = "Henry233333"
+
+[markup]
+  [markup.highlight]
+    codeFences = true
+    guessSyntax = true
+    lineNos = true
